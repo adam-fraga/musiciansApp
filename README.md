@@ -1,2 +1,2 @@
 # musiciansApp
-"Training with solidity, and truffle framework for smart contract"
+"Training with solidity, test in JS, and truffle framework for smart contract"
